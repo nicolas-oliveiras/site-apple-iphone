@@ -181,10 +181,9 @@ li {
     }
 
     .iphone {
-        display: block;
-        height: auto;
-        width: 100%;
+        max-width: 90%;
         position: absolute;
+        margin-left: 20px;
     }
 
     .escolha-cor {
