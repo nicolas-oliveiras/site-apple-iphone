@@ -175,7 +175,8 @@ li {
 
     .circle {
         position: absolute;
-        margin-top: 375px;
+        margin-top: 437px;
+        display: block;
 
     }
 
