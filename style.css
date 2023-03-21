@@ -177,6 +177,7 @@ li {
         position: absolute;
         margin-top: 437px;
         display: block;
+        clip-path: circle(600px at right 1000px)
 
     }
 
